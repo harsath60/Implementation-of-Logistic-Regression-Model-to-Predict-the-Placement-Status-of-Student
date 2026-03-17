@@ -8,12 +8,21 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Start the program and import required libraries.
+2. Create and load the employee dataset into a DataFrame.
+3. Separate input features and target variable (Churn).
+4. Split the dataset into training and testing sets.
+5. Train the Decision Tree Classifier model and predict test results.
+6. Evaluate accuracy, display classification report, plot the tree, and stop. 
 
 ## Program:
+```
+/*
+Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+Developed by: HARSATH S
+RegisterNumber: 212225230096
+*/
+```
 ```
 # Logistic Regression for Student Placement Prediction
 
